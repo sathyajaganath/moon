@@ -1,0 +1,334 @@
+/* body{
+	background-color:#ece5da;
+} */
+.order{
+	background-color: #1D4356;
+	color:white;
+	padding:10px;
+	text-align:center;
+	font-family:"Cormorant"; 
+	font-size:16px;
+	font-weight:600;
+	margin-bottom:0;
+}
+.logo{
+	padding-bottom:12px;
+	background-color:#ece5da;
+	padding-top:10px;
+	padding-left:50px;
+	
+}
+.nav{
+	padding-top:40px;
+	padding-bottom:30px;
+	background-color:#e3d7c1;
+	font-size:18px;
+	font-family:Baskerville Old Face;
+}
+.navi{
+	background-color:#e3d7c1;
+	 padding-right:-100px;
+}
+
+.st{
+	height:210px;
+	width:210px;
+}
+.premium{
+	
+	padding-left:153px;
+	font-size:30px;
+	color:#6d6962;
+	/* font-style:Bodoni MT;
+    font-family:serif; */
+	margin-top:-10px;
+	padding-top:60px;
+	font-family:Gabriola;
+}
+.customized{
+	font-size:50px;
+	padding-left:150px;
+	color:#222222;
+	font-style:Bodoni MT;
+	padding-top:20px;
+	font-family:serif;
+	
+	
+}
+.para1{
+	padding-top:30px;
+	color:#7f7d78;
+	padding-left:150px;
+	font-style:Calibri;
+	font-size:19px;
+	padding-bottom:50px;
+	font-weight:500;
+	
+}
+.vid{
+	
+	margin-top:40px;
+}
+.pink{
+	background-color:#e3d7c1;
+	margin-top:2px;
+}
+.orders{
+	font-size:16px;
+	padding:30px;
+	padding-top:30px;
+	font-weight:bold;
+	font-family:Maiandra GD;
+	background-color:#e3d7c1;
+}
+.choose{
+	background-color:#e3d7c1;
+	font-family:Gabriola;
+                                                                                                                                                                                                                        	font-size:26px;
+	padding-top:40px;
+	color:#6d6962;
+	text-align:center;
+	
+}
+.delicacies{
+	background-color:#e3d7c1;
+	font-family:EB Garamond;
+	font-size:38px;
+	padding-top:30px;
+	text-align:center;
+	
+}
+.macroon{
+	background-color:#e3d7c1;
+	padding-left:125px;
+	margin-bottom:50px;
+}
+.pinks{
+	margin-top:-4px;
+	padding-bottom:-300px;
+	background-color:#e3d7c1;
+	/* background-color: #1d4256; */
+}
+/*CODING OF CUSTOMIZED CAKE*/
+.blueberry{
+	background-color:#8e8e87;
+	margin-top:3px;
+	margin-left:-30px;
+}
+.celebrate{
+	font-size:26px;
+	font-family:Maiandra GD;
+	padding-top:50px;
+	text-align:center;
+}
+.more{
+	font-family:Maiandra GD;
+	text-align:center;
+	font-size:18px;
+	padding-top:50px;
+	padding-bottom:100px;
+	font-weight:bold;
+}
+.cus{
+	padding-top:20px;
+}
+.tree{
+	padding-left:50px;
+}
+.active{
+	text-decoration:underline;
+	text-decoration-thickness:1px;
+	text-underline-offset: 20px;
+}
+.get-in-touch{
+	font-size:28px;
+	font-family:EB Garamond;
+	text-align:center;
+	font-weight:500;
+	padding-top:50px;
+}
+.wh-app{
+	font-family:Maiandra GD;
+	font-size:18px;
+	font-weight:530;
+	text-align:center;
+	padding-top:350px;
+	color:#797979;
+}
+.fo{
+	padding-top:30px;
+	color:#797979;
+	font-family:Bahnschrift Condensed;
+	font-size:18px;
+	font-weight:20;
+}
+.form-control{
+	padding:20px;
+}
+.btn{
+	color:white;
+	background-color:#1D4356;
+	padding-left:260px;
+	padding-right:250px;
+	font-size:16px;
+	margin-bottom:70px;
+}
+.end-part{
+	font-size:16px;
+	padding-top:50px;
+	background-color:#e3d7c1;
+	border-top:1px solid black;
+}
+.logo2{
+	padding-top:150px;
+}
+.quick-links{
+	padding-top:40px;
+	padding-left:20px;
+	font-family:Cambria;
+	color:#4d3319;
+	font-size:20px;
+	padding-bottom:30px;
+}
+.quick{
+	line-height:2;
+}
+.follow-us{
+	padding-top:40px;
+	font-family:Cambria;
+	color:#4d3319;
+	font-size:20px;
+	padding-bottom:30px;
+	padding-left:30px;
+}
+.follow{
+	line-height:1.6;
+	padding-left:30px;
+}
+.legal-terms{
+	padding-top:40px;
+	padding-left:20px;
+	font-family:Cambria;
+	color:#4d3319;
+	font-size:20px;
+	padding-bottom:30px;
+}
+.legal{
+	line-height:2;
+}
+.addr1{
+	padding-top:40px;
+	font-family:Cambria;
+	color:#4d3319;
+	font-size:20px;
+	padding-bottom:30px;
+}
+.addr2{
+	line-height:2;
+}
+.addr3{
+	line-height:2;
+	padding-top:20px;
+}
+.update{
+	padding-top:40px;
+	font-family:Cambria;
+	color:#4d3319;
+	font-size:20px;
+	padding-bottom:30px;
+}
+.send{
+	color:white;
+	background-color: #1D4356;
+	padding:10 30px;
+	margin-bottom:30px;
+}
+/* style sheet of contact us page */
+
+
+.pic3{
+	margin-top:-10px;
+	padding-top:-10px;
+}
+.made{
+	font-size:25px;
+	padding:20px 160px;
+	padding-top:100px;
+	/* font-family:Bell MT; */
+	font-family:Century;
+	font-weight:200;
+}
+.premium-cake{
+	font-size:16px;
+	padding:0 160px;
+	padding-bottom:60px;
+}
+.know-more{
+	font-family:Bodoni MT;
+	font-size:24px;
+	text-align:center;
+	padding-bottom:40px;
+	font-weight:500;
+	
+}
+.office{
+	font-size:16px;
+	border:1px solid gray;
+	
+}
+.corporate{
+	padding-bottom:20px;
+}
+.line1{
+	padding-bottom:30px;
+}
+.manufacturing{
+	padding-bottom:20px;
+}
+.line2{
+	padding-bottom:7px;
+}
+.connect{
+	padding-bottom:20px;
+}
+.em{
+	padding-bottom:20px;
+}
+.time{
+	padding-bottom:20px;
+}
+.day{
+	padding-bottom:52px;
+}
+.write-to{
+	padding-top:30px;
+	font-family:Bodoni MT;
+	font-size:20px;
+	text-align:center;
+}
+#sub{
+	color:white;
+	background-color: #1D4356;
+	padding-top:7px;
+	margin-bottom:200px;
+}
+.get-in-touch-u{
+	font-size:20px;
+	font-family:EB Garamond;
+	text-align:center;
+	font-weight:500;
+	padding-top:50px;
+}
+.purpose-of-contact{
+	padding-left:100px;
+}
+.con{
+	font-family:EB Garamond;
+	padding-bottom:20px;
+	padding-top:20px;
+	font-size:20px;
+}
+.map{
+	
+	padding:80px;
+}
